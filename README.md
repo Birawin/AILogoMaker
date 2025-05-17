@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Logo Generator
 
 A modern web application that generates logos using AI technology. Built with Next.js and Tailwind CSS.
@@ -39,3 +40,6 @@ npm run dev
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
 ## Project Structure
+=======
+# AILogoMaker
+>>>>>>> 4046182f65e1ac81db94a88ed766541c0dc0b1ca
