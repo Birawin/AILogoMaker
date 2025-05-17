@@ -6,4 +6,4 @@ function LogoIdea() {
   )
 }
 
-export default LogoIdea
+export default LogoIdea;

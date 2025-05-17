@@ -10,4 +10,4 @@ function HeadingDescription({title, description}) {
     )
 }
 
-export default HeadingDescription
+export default HeadingDescription;
